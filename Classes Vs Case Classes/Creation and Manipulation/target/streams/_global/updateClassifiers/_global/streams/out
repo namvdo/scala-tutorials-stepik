@@ -1,0 +1,4 @@
+[warn] scalactic_2.12-3.0.5-sources.jar no longer exists at /Users/macbook/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalactic/scalactic_2.12/3.0.5/scalactic_2.12-3.0.5-sources.jar
+[debug] "not up to date. inChanged = false, force = false
+[debug] Updating ProjectRef(uri("file:/Users/namvdo/Desktop/learntocodetogether.com/java-from-scratch/Scala%20Tutorial/Classes%20Vs%20Case%20Classes/Creation%20and%20Manipulation/"), "Creation-and-Manipulation")...
+[debug] Done updating ProjectRef(uri("file:/Users/namvdo/Desktop/learntocodetogether.com/java-from-scratch/Scala%20Tutorial/Classes%20Vs%20Case%20Classes/Creation%20and%20Manipulation/"), "Creation-and-Manipulation")

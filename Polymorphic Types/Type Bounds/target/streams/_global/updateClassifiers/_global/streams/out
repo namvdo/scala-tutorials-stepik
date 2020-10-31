@@ -1,0 +1,4 @@
+[warn] scalactic_2.12-3.0.5-sources.jar no longer exists at /Users/macbook/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scalactic/scalactic_2.12/3.0.5/scalactic_2.12-3.0.5-sources.jar
+[debug] "not up to date. inChanged = false, force = false
+[debug] Updating ProjectRef(uri("file:/Users/namvdo/Desktop/learntocodetogether.com/java-from-scratch/Scala%20Tutorial/Polymorphic%20Types/Type%20Bounds/"), "Type-Bounds")...
+[debug] Done updating ProjectRef(uri("file:/Users/namvdo/Desktop/learntocodetogether.com/java-from-scratch/Scala%20Tutorial/Polymorphic%20Types/Type%20Bounds/"), "Type-Bounds")
